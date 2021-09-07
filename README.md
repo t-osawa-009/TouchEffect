@@ -1,3 +1,3 @@
 # TouchEffect
-## Reference
-- https://github.com/morizotter/TouchVisualizer
+
+A description of this package.

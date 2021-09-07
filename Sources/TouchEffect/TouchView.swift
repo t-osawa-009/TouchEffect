@@ -1,3 +1,4 @@
+#if os(iOS) || os(tvOS)
 import UIKit
 
 final class TouchView: UIView {
@@ -26,3 +27,4 @@ final class TouchView: UIView {
         layer.cornerRadius = frame.size.height / 2
     }
 }
+#endif
