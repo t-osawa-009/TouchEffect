@@ -1,8 +1,6 @@
 #if os(iOS) || os(tvOS)
 import ObjectiveC
 import UIKit
-import os
-import Combine
 
 private var hasSwizzled = false
 private var key = 0
